@@ -8,7 +8,6 @@ public class Main {
     public static void main(String[] args) {
         // Press Alt+Entrée with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
-     Person person=new Person("Joey","Doe", LocalDate.parse("2013-01-12"));
-     System.out.println(person.getDisplayName()+":"+person.getAge()+"years");
+
     }
 }
